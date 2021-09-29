@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Note Pad</string>
+    <string name="contact_us">contact us</string>
+    <string name="about">about</string>
+    <string name="all_notes">All Notes</string>
+    <string name="search">search</string>
+    <string name="open" />
+    <string name="close" />
+    <string name="add">add</string>
+    <string name="title_1">Title 1</string>
+    <string name="title_2">Title 2</string>
+    <string name="title_3">Title 3</string>
+    <string name="title_4">Title 4</string>
+    <string name="title_5">Title 5</string>
+    <string name="title_6">Title 6</string>
+    <string name="title_7">Title 7</string>
+    <string name="btn_save">Save</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_memo">Enter memo</string>
+    <string name="back">Back</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="title">Title :</string>
+    <string name="description">Description</string>
+    <string name="modified">modified :</string>
+    <string name="go">Go</string>
+</resources>
